@@ -11,4 +11,4 @@ Hello client ...
 Receive response => [Hello Jeremy]
 ```
 
-> check [NOTES.md](#NOTES.md)
+> check [NOTES.md](NOTES.md)
