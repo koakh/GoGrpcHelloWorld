@@ -38,3 +38,10 @@ $ $ go run helloclient/grpcClient.go
 Hello client ...
 Receive response => [Hello Jeremy]
 ```
+
+## Build
+
+```shell
+$ go build helloserver/grpcServer.go
+$ go build helloclient/grpcClient.go
+```
